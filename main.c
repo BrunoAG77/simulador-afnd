@@ -38,8 +38,6 @@ int create_afnd(char q0, char palavras[], char data[], int estados, bool verific
   return 1;
 }
 
-
-
 int main(void){
   char alfabeto[max_alfabeto];
   int num_estados, num_finais, transit, entradas;
