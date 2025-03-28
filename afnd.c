@@ -1,6 +1,5 @@
-//
-// Created by enzoribeiroz on 3/28/25.
-//
+// Bruno Antico Galin 10417318
+// Enzo Ribeiro 10418262
 
 #include <stdio.h>
 #include <stdlib.h>
